@@ -1,1 +1,1 @@
-# AKA MObile banking app
+# AKA Mobile banking app
